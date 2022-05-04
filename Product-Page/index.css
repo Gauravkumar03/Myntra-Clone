@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+}
+#container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap: 20px 0px;
+    width: 85%;
+    margin-left: 30px;
+}
+#container > div{
+    margin: auto;
+    width: 80%;
+}
+#container > div > img{
+    width: 100%;
+   
+}
+#main{
+    display: flex;
+}
+#filter{
+    border: 1px solid green;
+    margin-left: 15px;
+    width: 15%;
+}
+#top{
+    display: flex;
+    justify-content: space-between;
+}
+#top > p{
+    color: red;
+}
+.name{
+    margin-bottom: 8px;
+    color: #535766;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.strike{
+    margin-left: 10px;
+}
+#price{
+    margin-top: 30px;
+}
+#start{
+    cursor: pointer;
+    margin-top: 15px;
+}
+.fa-thin{
+    margin-right: 5px;
+}
+#medium{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#end{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#end2{
+    margin-top: 5px;
+    cursor: pointer;
+}
+.price1{
+    margin-left: 10px;
+    font-size: 14px;
+}
+.s{
+    margin-left: 10px;
+    color: grey;
+    font-weight: 400;
+    text-decoration: line-through;
+    
+}
+.off{
+    color:  #ff905a;
+    font-weight: 400;
+    margin-left: 10px;
+    
+}
+#brand{
+    margin-top: 30px;
+}
+#road{
+    margin-top: 15px;
+    cursor: pointer;
+}
+#wro{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#dennis{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#high{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#arrow{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#color{
+    margin-top: 20px;
+}
+#black{
+    margin-top: 5px;
+    cursor: pointer;
+    font-weight: lighter;
+}
+#pink{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#green{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#white
+{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#red
+{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#blue{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#top>p{
+    cursor: pointer;
+}
