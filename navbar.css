@@ -216,3 +216,14 @@ padding-bottom: 43px;
 /* .FreeShippingBanner-sidebar{
 display: block;
 } */
+
+
+/* day-2 */
+.best_brands{  
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(8,1fr);
+  margin-top: 60px;
+  gap: 6px;
+
+}
