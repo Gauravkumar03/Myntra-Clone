@@ -1,6 +1,9 @@
 *{
     margin: 0;
 }
+body{
+    position: relative;
+}
 #container{
     display: grid;
     grid-template-columns: repeat(4,1fr);
@@ -17,11 +20,17 @@
     width: 100%;
    
 }
+#category{
+  margin-top: 20px;
+}
+#category>h4{
+    margin-top: 5px;
+    cursor: pointer;
+}
 #main{
     display: flex;
 }
 #filter{
-    border: 1px solid green;
     margin-left: 15px;
     width: 15%;
 }
@@ -107,7 +116,7 @@
     margin-top: 20px;
 }
 #black{
-    margin-top: 5px;
+    margin-top: 19px;
     cursor: pointer;
     font-weight: lighter;
 }
@@ -135,4 +144,26 @@
 }
 #top>p{
     cursor: pointer;
+}
+
+@media all and (min-width: 600px) and (max-width: 800px){
+    #container{
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: auto;
+        gap: 20px 0px;
+    }
+}
+@media all and (min-width: 400px) and (max-width: 600px){
+    #container{
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: auto;
+        gap: 20px 0px;
+    }
+}
+@media all and (min-width: 200px) and (max-width: 400px){
+    #container{
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: auto;
+        gap: 20px 0px;
+    }
 }
