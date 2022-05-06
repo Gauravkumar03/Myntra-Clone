@@ -38,9 +38,6 @@ body{
     display: flex;
     justify-content: space-between;
 }
-#top > p{
-    color: red;
-}
 .name{
     margin-bottom: 8px;
     color: #535766;
@@ -142,9 +139,7 @@ body{
     margin-top: 5px;
     cursor: pointer;
 }
-#top>p{
-    cursor: pointer;
-}
+
 
 @media all and (min-width: 600px) and (max-width: 800px){
     #container{
@@ -166,4 +161,12 @@ body{
         grid-template-rows: auto;
         gap: 20px 0px;
     }
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#clearall{
+    color: red;
+    cursor: pointer;
 }

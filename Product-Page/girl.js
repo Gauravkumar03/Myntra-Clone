@@ -283,8 +283,6 @@ function displaydata(mensData){
    
         var image=document.createElement("img")
         image.src=elem.image_url
-
-        image.addEventListener("click",imageopen)
    
         var name=document.createElement("p")
         name.setAttribute("class","name")
@@ -316,10 +314,6 @@ function displaydata(mensData){
         document.querySelector("#container").append(div)
         
      })
-
-     function imageopen(){
-        window.location.href="https://www.myntra.com/shirts/roadster/roadster-men-black--grey-checked-casual-sustainable-shirt/1376577/buy"
-     }
 
    
 }

@@ -512,69 +512,6 @@ var mensData=[
 ]
 displaydata(mensData)
 
-document.querySelector("#top > p").addEventListener("click",clear)
-function clear(){
-    window.location.reload()
-}
-//                          Category
-
-// document.querySelector("#men").addEventListener("click",clickmen)
-// function clickmen(){
-   
-//     var a=mensData.filter(function(elem){
-//         return elem.type=="men"
-//     })
-//        displaydata(a)
-//     }
-// document.querySelector("#women").addEventListener("click",clickwomen)
-// function clickwomen(){
-   
-//     var a=mensData.filter(function(elem){
-//         return elem.type=="women"
-//     })
-//        displaydata(a)
-//     }
-// document.querySelector("#boy").addEventListener("click",clickboy)
-// function clickboy(){
-   
-//     var a=mensData.filter(function(elem){
-//         return elem.type=="kid"
-//     })
-//        displaydata(a)
-//     }
-// document.querySelector("#girl").addEventListener("click",clickgirl)
-// function clickgirl(){
-   
-//     var a=mensData.filter(function(elem){
-//         return elem.type=="girlkid"
-//     })
-//        displaydata(a)
-//     }
-
-
-
-document.querySelector("#men").addEventListener("click",fun1)
-function fun1(){
-    // console.log("hello")
-
-    window.location.href="girl.html"
-}
-document.querySelector("#women").addEventListener("click",fun2)
-function fun2(){
-
-    window.location.href="womens.html"
-}
-document.querySelector("#boy").addEventListener("click",fun3)
-function fun3(){
-
-    window.location.href="boy.html"
-}
-document.querySelector("#girl").addEventListener("click",fun4)
-function fun4(){
-
-    window.location.href="girl.html"
-}
-
 //                                                       Brand Code
 
 
