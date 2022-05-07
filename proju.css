@@ -1,0 +1,168 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+            /* box-sizing: border-box; */
+          }
+ 
+        
+          
+          #all{
+              display:flex;
+              justify-content: space-around;
+ 
+          }
+        
+        
+              img{
+                height: 80px;
+                width: 80px;
+                padding-left: 30px;
+                padding-top: 20px;
+            }
+        
+            #purcharse{
+               
+                /* display:ruby-base; */
+              /* text-align:justify; */
+                align-items: center;
+                 /* justify-content:center; */
+                padding-right: 100px; 
+                /* border: 1px solid red; */
+                box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+                margin-top: 20px;
+                gap: 30px;
+               
+
+                        
+            }
+        
+            input{
+                text-align: center;
+             border-color:antiquewhite;
+               
+            }
+            #left{
+                width: 450px;
+                height: 400px;
+                padding-top: 30px;
+                /* width: 50% px; */
+                /* text-align: center; */
+                /* border: 1px solid red; */
+                /* align-items: center; */
+                /* display: flex; */
+                
+                
+            }
+            #code{
+                padding: 10px;
+                border-radius :5px;
+                color: red;
+                border-color: red;
+                /* padding-left: 30px; */
+                cursor: pointer;
+ 
+            }
+            li{
+                font-size: 20px;
+                padding-top: 20px;
+            }
+            #offers{
+                margin-top: 20px;
+                padding: 20px;
+                /* border: 1px solid red; */
+                box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+             
+            }
+
+         
+
+            #delivery{
+                box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+                height: 50px;
+  
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+
+               
+            }
+
+            #mrp{
+                padding-top: 40px;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            #coupen{
+                display: flex;
+                /* justify-content: space-between; */
+                align-items: center;
+                /* justify-content:flex-end; */
+               
+            }
+            #applay{
+                justify-content: space-between;
+                align-items:flex-end;
+                height: 500px;
+                display: grid;
+            }
+            #cobut{
+                padding: 5px;
+                /* color: aliceblue; */
+             margin-left: 50px;
+             border-radius :5px;
+             color: red;
+             border-color: red;
+             cursor: pointer;
+            }
+            #discount{
+                display: flex;
+                justify-content: space-between;
+
+
+            }
+            #coupen{
+                display: flex;
+                justify-content: space-between;
+
+            }
+            #fee{
+                display: flex;
+                justify-content: space-between;
+
+            }
+            #totel{
+                display: flex;
+                justify-content: space-between;
+                
+
+            }
+
+            .order{
+
+                left:  30px;
+                width: 200px;
+                height: 30px;
+                padding: 5px;
+                /* color: aliceblue; */
+            font-size: 20px;
+             border-radius :5px;
+             color: rgb(219, 201, 201);
+             border-color: red;
+             background-color: red;
+             cursor: pointer;
+            
+
+
+            }
+            .css-etguer{
+                margin-left: 50px;
+                margin-top: 10px;
+             
+            }
+            #offersV2-base-container{
+                /* width: 400px; */
+            }
+
+            
