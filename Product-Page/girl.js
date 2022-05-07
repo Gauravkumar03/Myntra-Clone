@@ -1,6 +1,7 @@
 var mensData=[
     {
-        image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16827542/2022/3/21/1751593d-49f1-425b-995f-103d03d5ae251647855800571-Bella-Moda-Green-Floral-Embroidered-Dress-5481647855800504-2.jpg",
+        image_url:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"Bella Moda",
         price:"499",
         off:"(90%OFF)",
@@ -10,7 +11,8 @@ var mensData=[
         type:"girlkid"
     },
     {
-        image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17331488/2022/3/1/f4633269-a57e-416a-96e0-8e386c93b3d11646074043113AarikaPinkOff-ShoulderNetMidiDress1.jpg",
+        image_url:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15184938/2022/3/16/245e8756-a9bf-4554-95a4-9010867bdf171647423688178-UTH-by-Roadster-Girls-Black-Solid-Pure-Cotton-Drop-Shoulder--1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15184938/2022/3/16/245e8756-a9bf-4554-95a4-9010867bdf171647423688178-UTH-by-Roadster-Girls-Black-Solid-Pure-Cotton-Drop-Shoulder--1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15184938/2022/3/16/e2265fb7-4799-426f-a8de-c6dcb537e77d1647423688169-UTH-by-Roadster-Girls-Black-Solid-Pure-Cotton-Drop-Shoulder--2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15184938/2022/3/16/ec9fed63-5743-4ff1-a653-f9e7ff907d5d1647423688161-UTH-by-Roadster-Girls-Black-Solid-Pure-Cotton-Drop-Shoulder--3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15184938/2022/3/16/a84f6f76-18b1-45e6-a40d-e26512d3dcbc1647423688153-UTH-by-Roadster-Girls-Black-Solid-Pure-Cotton-Drop-Shoulder--4.jpg"],
         brand:"Aarika",
         price:"999",
         off:"(67%OFF)",
@@ -20,7 +22,8 @@ var mensData=[
         type:"girlkid"
     },
     {
-        image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/3/46202efb-a468-41c1-bab3-9d6466b553d01622694977178-1.jpg",
+        image_url:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/6/efcd96b3-e516-4993-b76b-2dea238a1bf91620286359863-5.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/6/9c04452f-33b5-400b-a660-2a2b3f34e7491620286359801-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/6/c9568592-ce63-46f6-bc7a-616e16e2daf31620286359827-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/6/c9568592-ce63-46f6-bc7a-616e16e2daf31620286359827-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/6/efcd96b3-e516-4993-b76b-2dea238a1bf91620286359863-5.jpg"],
         brand:"Wish Karo",
         price:"1549",
         off:"(40%OFF)",
@@ -30,7 +33,8 @@ var mensData=[
         type:"girlkid"
     },
     {
-        image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17651562/2022/3/28/884025cf-02c3-423a-b7ac-1b313117c3811648461068492BellaModaRedFloralDress1.jpg",
+        image_url:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17179252/2022/2/17/a9fc5fd8-8a79-474d-a2cd-3edab27859491645071574540CutiekinsRedTie-UpNeckRufflesTop1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17179252/2022/2/17/a9fc5fd8-8a79-474d-a2cd-3edab27859491645071574540CutiekinsRedTie-UpNeckRufflesTop1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17179252/2022/2/17/e81be043-6b07-44fa-ba52-4efa432e7aca1645071574347CutiekinsRedTie-UpNeckRufflesTop2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17179252/2022/2/17/efcc3a28-8a9a-4bdd-8b0a-29fe14d2dfa61645071574532CutiekinsRedTie-UpNeckRufflesTop3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17179252/2022/2/17/1e2f19a5-173d-4a58-ad1a-7720959bbecc1645071574523CutiekinsRedTie-UpNeckRufflesTop4.jpg"],
         brand:"Bella Moda",
         price:"399",
         off:"(95%OFF)",
@@ -41,6 +45,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14550060/2021/7/15/0e2b86b5-73f5-4f10-8f13-335accfa660e1626347938457CUTECUMBERBlackSequinedGeorgetteFitandFlareDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"CUTECUMBER",
         price:"789",
         off:"(59%OFF)",
@@ -51,6 +56,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17273788/2022/2/24/27084ac7-7118-401a-b1cc-a8fb552c351c1645705049816CUTECUMBERRedCheckedGeorgetteSheathDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"CUTECUMBER",
         price:"1390",
         off:"(25%OFF)",
@@ -61,6 +67,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/29/d15cccee-d064-458e-8e09-c9aed44b1ded1624958826140-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"Wish Karo",
         price:"2999",
         off:"(60%OFF)",
@@ -71,6 +78,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15583966/2022/1/27/e2303415-65f9-4839-b67b-862993b48e9e1643279926256-Bella-Moda-Black-Georgette-Dress-7631643279926113-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"Bella Moda",
         price:"799",
         off:"(65%OFF)",
@@ -81,6 +89,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17844398/2022/4/11/2667f7e0-7e9b-4d12-927c-33bbbe92c9b51649658757793AarikaTurquoiseBlueNetDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"Aarika",
         price:"859",
         off:"(60%OFF)",
@@ -91,6 +100,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16025662/2021/11/8/4668ae2f-cadc-4762-ab96-a4d5e81b6eec1636370379154Dresses1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"Wish Karo",
         price:"999",
         off:"(61%OFF)",
@@ -101,6 +111,7 @@ var mensData=[
     },   
      {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/f5200f52-83cf-4927-851b-d46e7548551e1613651566819-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"CUTECUMBER",
         price:"2999",
         off:"(43%OFF)",
@@ -111,6 +122,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17659796/2022/3/30/cbab1b98-81fd-4c42-87a9-2c4a1d3dba0b1648584929651AarikaMaroonEmbellishedNetMaxiDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/0c58f62f-eaf6-4531-a77d-e83aa9e827f51647853321644-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/6778ccff-5f6b-4b12-a1cc-69234bd75a661647853321632-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/d2da9569-8f2c-4f05-a8ee-48387388e9dd1647853321623-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16957696/2022/3/21/5b4900d6-495b-419d-a663-0a3558cb87681647853321613-JUSTICE-Girls-Green-Solid-Pure-Cotton-T-shirt-36716478533209-4.jpg"],
         brand:"PUMA",
         price:"751",
         off:"(55%OFF)",
@@ -312,9 +324,18 @@ function displaydata(mensData){
    
         div.append(image,strike,name,price)
         document.querySelector("#container").append(div)
+
+        div.addEventListener("click", dosome)
+        function dosome() {
+            event.preventDefault()
+            localStorage.setItem("currentProduct", JSON.stringify(elem))
+        }   
+        image.addEventListener("click",imageopen) 
         
      })
-
+     function imageopen(){
+        window.location.href="single-product.html"
+     }
    
 }
 

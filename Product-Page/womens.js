@@ -1,6 +1,7 @@
 var mensData=[
     {
-        image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17397858/2022/3/5/2afa1d83-1e3b-454d-a4fb-c6ca578d2e461646466554307JCCollectionMulticolouredFloralMidiDress1.jpg",
+        image_url:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/18/1ab6d9e3-e5c3-46e6-adc0-6066105b01a81616060924389-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/18/1ab6d9e3-e5c3-46e6-adc0-6066105b01a81616060924389-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/18/1c5517e5-c98d-4162-9d69-9b5f5808db081616060924408-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/18/81bfa908-46c5-4df3-b4b4-9b8fae525ee61616060924430-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/18/017ca777-337e-4661-b1c9-94aa8ef1e6501616060924451-4.jpg"],
         brand:"JS Collection",
         color:"white",
         price:"4599",
@@ -10,7 +11,8 @@ var mensData=[
         pprice:"5699"
     },
     {
-        image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2299060/2018/7/30/7584b116-2a2c-4fb1-881c-af58cc484b181532944603854-Tokyo-Talkies-Women-Black-Printed-Maxi-Dress-4791532944603727-1.jpg",
+        image_url:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308591/2019/7/29/1b9df8fd-214e-4e8c-a0b6-759a9167e1e61564379559418-SASSAFRAS-Women-Black-A-Line-Dress-291564379558115-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308591/2019/7/29/1b9df8fd-214e-4e8c-a0b6-759a9167e1e61564379559418-SASSAFRAS-Women-Black-A-Line-Dress-291564379558115-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308591/2019/7/29/ca09b8fd-93e6-4aff-84bf-50d68fe5644c1564379559400-SASSAFRAS-Women-Black-A-Line-Dress-291564379558115-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308591/2019/7/29/f81b128d-0ab8-459d-af09-be7132212c271564379559370-SASSAFRAS-Women-Black-A-Line-Dress-291564379558115-3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308591/2019/7/29/11db07a0-a325-4fe7-9aa9-edf74134b6e11564379559336-SASSAFRAS-Women-Black-A-Line-Dress-291564379558115-5.jpg"],
         brand:"Tokyo Talkies",
         color:"black",
         price:"1199",
@@ -20,7 +22,8 @@ var mensData=[
         pprice:"2399"
     },
     {
-        image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2311110/2017/12/6/11512551962393-na-9811512551962323-1.jpg",
+        image_url:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9717155/2019/6/1/459c32fa-eb64-420d-a7f7-6e41658b8b991559362255298-Bhama-Couture-Women-Dresses-7521559362254436-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9717155/2019/6/1/459c32fa-eb64-420d-a7f7-6e41658b8b991559362255298-Bhama-Couture-Women-Dresses-7521559362254436-1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9717155/2019/6/1/6bd2e615-400b-442e-9874-80766ef5d3091559362255271-Bhama-Couture-Women-Dresses-7521559362254436-2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9717155/2019/6/1/af68a9ce-cab9-40ac-8a08-90c37d20d5b31559362255193-Bhama-Couture-Women-Dresses-7521559362254436-5.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9717155/2019/6/1/fc30ac30-b701-4d4b-8292-3c9af1d354ca1559362255214-Bhama-Couture-Women-Dresses-7521559362254436-4.jpg"],
         brand:"Tokyo Talkies",
         color:"red",
         price:"870",
@@ -30,9 +33,10 @@ var mensData=[
         pprice:"2299"
     },
     {
-        image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10813300/2019/12/2/34fdf73a-8f2c-41e3-b3ed-53729f77d7841575272619313-Athena-Black-Embellished-Slit-Sleeves-Maxi-Dress-67715752726-1.jpg",
+        image_url:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"Athena",
-        color:"black",
+        color:"green",
         price:"3499",
         name:"Slit Sleeves Maxi Dress",
         type:"women",
@@ -41,6 +45,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17397952/2022/3/5/0428d269-a85f-4a7c-9a4f-6946dbf979f21646466506191JCCollectionBlackFloralDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"JS Collection",
         color:"black",
         price:"4719",
@@ -51,6 +56,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16831912/2022/2/7/16124115-d96a-43b2-b647-ad76086ee48e1644248211536-Tokyo-Talkies-Pink--Blue-Sheath-Dress-3281644248210712-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"Tokyo Talkies",
         color:"pink",
         price:"999",
@@ -61,6 +67,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16002894/2021/11/23/f79fd42e-4465-4fb3-92bd-aa574b2e6e991637661384353-Athena-Green-Sequin-party-midi-dress-with-cape-sleeves-95163-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"Athena",
         color:"blue",
         price:"2799",
@@ -71,6 +78,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17426090/2022/3/7/f95deaac-dda4-4df0-bd0f-5cfdefa2a8321646674896418JCCollectionGreenEthnicMotifsA-LineMidiDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"JS Collection",
         color:"green",
         price:"5399",
@@ -81,6 +89,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17096528/2022/3/21/c4d88918-1a36-4d62-92c6-69198f1170c51647859879178-Anouk-Women-Dresses-971647859878638-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"Anouk",
         color:"red",
         price:"999",
@@ -91,6 +100,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12134602/2021/1/12/ba98b020-6762-44eb-a17e-c9a828d5757f1610430266390-Anouk-Women-Dresses-9791610430264638-3.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"Anouk",
         color:"red",
         price:"599",
@@ -101,6 +111,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/9/d7e77fad-d471-4d61-88ce-c5a157b9ba201602195385765-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"Tokyo Talkies",
         color:"green",
         price:"1399",
@@ -111,6 +122,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17397636/2022/3/5/31f7b162-3bb8-407a-ae15-57e2f79359131646466583355JCCollectionPinkFloralSheathDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"JS Collection",
         color:"red",
         price:"4399",
@@ -121,6 +133,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12134612/2020/12/10/f8fcebc4-648f-41ca-bdac-0c90c67a68161607592240760-Anouk-Women-Dresses-9161607592239147-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"Anouk",
         color:"green",
         price:"689",
@@ -131,6 +144,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/16042780/2021/11/9/ad1c20ee-dddb-475b-89f9-32a4468340bf163646099893520DressesGreenTie-UpNeckChiffonA-LineMiniDress1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"20Dresses",
         color:"green",
         price:"1599",
@@ -141,6 +155,7 @@ var mensData=[
     },
     {
         image_url:"https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17765608/2022/4/11/03afdf73-11b4-4931-afab-429023c5a5a61649670468149-Athena-Yellow-Shiffli-Dress-3941649670467596-1.jpg",
+        image_arr: ["https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8b634e87-acf3-439f-916e-2ffa540b89381648105843403PRENEAGreenJacquardMaxiDress1.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/72050927-7a14-4b20-b2f1-d6ef00e8a4c31648105843388PRENEAGreenJacquardMaxiDress2.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/e5bbb632-5259-417f-ae48-d326b28c2e641648105843411PRENEAGreenJacquardMaxiDress3.jpg", "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17625356/2022/3/24/8df61d89-f248-4237-bd9c-a64c0b1faba51648105843373PRENEAGreenJacquardMaxiDress4.jpg"],
         brand:"Athena",
         color:"yellow",
         price:"2999",
@@ -345,8 +360,17 @@ function displaydata(mensData){
    
         div.append(image,strike,name,price)
         document.querySelector("#container").append(div)
-     })
 
+        div.addEventListener("click", dosome)
+        function dosome() {
+            event.preventDefault()
+            localStorage.setItem("currentProduct", JSON.stringify(elem))
+        }
+        image.addEventListener("click",imageopen)
+     })
+     function imageopen(){
+        window.location.href="single-product.html"
+     }
 
    
 }

@@ -11,6 +11,7 @@ body{
     gap: 20px 0px;
     width: 85%;
     margin-left: 30px;
+    margin-top: 100px;
 }
 #container > div{
     margin: auto;
@@ -29,6 +30,7 @@ body{
 }
 #main{
     display: flex;
+    margin-top: 100px;
 }
 #filter{
     margin-left: 15px;

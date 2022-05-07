@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="single-product.css">
+    <link rel="stylesheet" href="navbar.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <div id="nav">
+        <div id="text">
+            <img src="https://images.indianexpress.com/2021/01/myntra.png" alt="image">
+            <h4>MEN</h4>
+            <h4>WOMEN</h4>
+            <h4>KIDS</h4>
+            <h4>HOME & LIVING</h4>
+            <h4>BEAUTY</h4>
+            <h4>STUDIO</h4>
+        </div>
+
+        <div class="searchbox">
+            <span class="material-icons search1">
+                search
+                </span>
+            <input class="searchbar" type="text" 
+            placeholder="Search for products,brand and more">
+        </div> 
+
+        <div class="nav_headingsright " >
+            <div class="personwithTitile">
+                <div>
+                    <span class="material-icons">
+                    person
+                    </span>
+                </div>
+                <div>
+                    <span class="Profile_title " >Profile</span>   
+                </div>
+            </div>
+            <div class="personwithTitile">
+                <div>
+                    <span class="material-icons">
+                    favorite_border
+                    </span>
+                </div>
+                <div>
+                    <span class="Profile_title" style="margin-left: -7px;" >
+                    Wish list
+                    </span>   
+                </div>
+            </div>
+            <div class="personwithTitile">
+                <div>
+                    <span class="material-icons">
+                    local_mall
+                    </span>
+                </div>
+                <div>
+                    <span class="Profile_title" style="margin-left: 2px;">
+                    Bag
+                    </span>   
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="container">
+        <div class="left">
+            <div class="inner"></div>
+            <div class="inner"></div>
+            <div class="inner"></div>
+            <div class="inner"></div>
+        </div>
+        <div class="right">
+            <div class="title"></div>
+            <div class="ratings">
+                <p>4.3</p>
+                <p>| &nbsp;&nbsp;&nbsp;&nbsp;46k Ratings</p>
+            </div>
+            <div class="price-row"></div>
+            <span class="inclusive">inclusive of all taxes</span>
+            <div class="size-chart">
+                <p>SELECT SIZE</p>
+                <P>SIZE CHART</P>
+            </div>
+            <div class="size">
+                <div>-S</div>
+                <div>-M</div>
+                <div>-L</div>
+                <div>XL</div>
+                <div>XXL</div>
+            </div>
+            <div class="bag-wish">
+                <div>ADD TO BAG</div>
+                <div>WISHLIST</div>
+            </div>
+            <p class="del">DELIVERY OPTIONS<p>
+            <input type="text" placeholder="Enter pincode" id="pin">
+            <p class="pin-class">Please enter PIN code to check delivery time & Pay on Delivery Availability
+             </p>
+             <div class="para">
+                 <p>100% Original Products</p>
+                 <p>Pay on delivery might be available</p>
+                 <p>Easy 30 days returns and exchanges</p>
+                 <p>Try & Buy might be availablex</p>
+             </div>
+             <h4>BEST OFFERS</h4>
+             <div class="para2">
+                 <ul>
+                     <li>Applicable on: Orders above Rs. 799 (only on first purchase)</li>
+                     <li>Coupon code: <strong>HELLO200</strong></li>
+                     <li>Coupon Discount: Rs. 87 off (check cart for final savings)</li>
+                 </ul>
+                 <p>View Eligible Products</p>
+             </div>
+             <b>EMI Option Available</b>
+             <div class="para3">
+                 <ul>
+                     <li>EMI starting at Rs 17/month</li>
+                 </ul>
+                 <p>View plans</p>
+             </div>
+        </div>
+    </div>
+</body>
+</html>
+
+<script>
+    let body = document.querySelector("body")
+    let currentProduct = JSON.parse(localStorage.getItem("currentProduct"))
+    let container = document.getElementById("container")
+    let inner = document.querySelectorAll(".inner")
+    let right = document.querySelector(".right")
+    let title = document.querySelector(".title")
+    let price = document.querySelector(".price-row")
+    for (let i = 0; i < inner.length; i++) {
+        let image = document.createElement("img")
+        image.setAttribute("src", currentProduct.image_arr[i])
+        inner[i].append(image)
+    }
+    let brand = document.createElement("h1")
+    brand.textContent = currentProduct.brand 
+    let name = document.createElement("h1")
+    name.textContent = currentProduct.name
+    title.append(brand, name)
+    let discounted_price = document.createElement("strong")
+    discounted_price.setAttribute("class", "discount")
+    discounted_price.textContent = "Rs " + currentProduct.price 
+    let actual_price = document.createElement("s")
+    actual_price.textContent = "Rs " + currentProduct.pprice 
+    let off = document.createElement("span")
+    off.setAttribute("class", "offer")
+    off.textContent = currentProduct.off
+    price.append(discounted_price, actual_price, off)
+    
+    
+    
+</script>
