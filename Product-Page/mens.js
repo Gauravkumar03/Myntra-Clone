@@ -122,9 +122,35 @@ var mensData=[
 ]
 displaydata(mensData)
 
+//                                    Category
+
+document.querySelector("#men").addEventListener("click",clickmen)
+function clickmen(){
+   
+    window.location.href="mens.html"
+}
+document.querySelector("#women").addEventListener("click",clickwomen)
+function clickwomen(){
+   
+    window.location.href="womens.html"
+}
+document.querySelector("#boy").addEventListener("click",clickboy)
+function clickboy(){
+   
+    window.location.href="boy.html"
+    console.log("boy")
+}
+document.querySelector("#girl").addEventListener("click",clickgirl)
+function clickgirl(){
+   
+    window.location.href="girl.html"
+    console.log("girl")
+}
+
 document.querySelector("#top > p").addEventListener("click",clear)
 function clear(){
     window.location.reload()
+    window.location.href="mens.html"
 }
 //                                                       Brand Code
 
